@@ -1,0 +1,10 @@
+*.DS_Store
+*.o
+*.a
+*.gcno
+*.gcda
+*.info
+src/tests/report/
+*/test
+*/record.txt
+*Tetris*
