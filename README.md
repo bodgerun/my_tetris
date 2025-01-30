@@ -2,6 +2,8 @@
 
 My own implementation of the classic tetris game.
 
+![screenshot](./screenshot.png)
+
 ---
 
 Controls:
